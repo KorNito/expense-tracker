@@ -1,1 +1,1 @@
-React project with React Hooks and Context API
+React project with hooks (useState, useContext, useReducer) and the context API by Traversy Media
